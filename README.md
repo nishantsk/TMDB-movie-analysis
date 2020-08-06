@@ -57,12 +57,12 @@ Brief Description of each column in the dataset
 
 Questions that I planned on exploring over the course of the report.
 
-What kind of movie genres are most favoured?
+  What kind of movie genres are most favoured?
 
-Growth of movies over the year
+  Growth of movies over the year
 
-In which year highest number of movies released.
+  In which year highest number of movies released.
+  
+  Gross Profit by Year
 
-Gross Profit by Year
-
-Most Profitable Mon
+  Most Profitable Month
